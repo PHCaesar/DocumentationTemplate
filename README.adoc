@@ -3,9 +3,9 @@ By @PHCaesar
 
 image::https://img.shields.io/badge/docs-passing-brightgreen[]
 
-This project aims to provide a lightweight preconfiguration for the diplomathesis.
+> This project aims to provide a lightweight preconfiguration for the diplomathesis.
 
-uses Dockerization of asciidoctor
+Dockerization of asciidoctor
 
 ### Exection
 Use the exec.bat or pro-exec.bat file 
