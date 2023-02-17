@@ -1,4 +1,4 @@
-# Diplomathesis base 
+# DiplomaThesis  
 By @PHCaesar
 
 This project aims to provide a lightweight preconfiguration for the diplomathesis.
@@ -6,7 +6,15 @@ This project aims to provide a lightweight preconfiguration for the diplomathesi
 uses Dockerization of asciidoctor
 
 ### Exection
-> Use the exec.bat file 
+Use the exec.bat or pro-exec.bat file 
+
+**exec.bat**
+> PDF - Quickstart :
+> generates the pdf file instantly and destroys the container afterwards
+
+**pro-exec.bat**
+> Custom Usage : 
+> creates the docker container and connects you to the container internal prompt
 
 ### Requirements
 - Docker installed

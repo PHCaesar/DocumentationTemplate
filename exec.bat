@@ -1,1 +1,1 @@
-docker run --rm --name=diplomathesis -it -v %cd%/Documentation:/documents asciidoctor/docker-asciidoctor
+docker run --rm --name=diplomathesis -it -v %cd%/Documentation:/documents asciidoctor/docker-asciidoctor asciidoctor-pdf Documentation/index.adoc
