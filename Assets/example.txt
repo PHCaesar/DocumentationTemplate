@@ -1,0 +1,1 @@
+In this folder belongs everything like pictures, csv files and other sources (non code sources)

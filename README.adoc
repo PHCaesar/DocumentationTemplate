@@ -1,0 +1,16 @@
+# Diplomathesis base 
+By @PHCaesar
+
+This project aims to provide a lightweight preconfiguration for the diplomathesis.
+
+uses Dockerization of asciidoctor
+
+### Exection
+> Use the exec.bat file 
+
+### Requirements
+- Docker installed
+- Diploma project
+
+### Tipp
+For perfect usage you will have to include a gitmodule / reference to your actual diploma project
