@@ -9,10 +9,12 @@ uses Dockerization of asciidoctor
 Use the exec.bat or pro-exec.bat file 
 
 **exec.bat**
+
 > PDF - Quickstart :
 > generates the pdf file instantly and destroys the container afterwards
 
 **pro-exec.bat**
+
 > Custom Usage : 
 > creates the docker container and connects you to the container internal prompt
 
