@@ -39,4 +39,5 @@ usage per 🖱️ **DoubleClick** on the bat file
 > For perfect usage you will have to include a gitmodule / reference to your actual diploma project
 
 *Recommended Dependencies :*
+
 - (asciidoctor-diagram)[https://docs.asciidoctor.org/diagram-extension/latest/]
