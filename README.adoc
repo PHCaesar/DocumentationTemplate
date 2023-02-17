@@ -12,34 +12,31 @@ General structure for Austrian HTL students is provided, other than that you wil
 
 **exec.{bat,bash}**
 
-> PDF - Quickstart :
-> generates the pdf file instantly and destroys the container afterwards
+   # PDF - Quickstart
+   generates the pdf file instantly and destroys the container afterwards
 
 **pro-exec.{bat,bash}**
 
-> Custom Usage : 
-> creates the docker container and connects you to the container internal prompt
+  # Custom Usage 
+  creates the docker container and connects you to the container internal prompt
 
-### Windows
+### 🪟 Windows
 
 usage per **DoubleClick** on the bat file
 
-### Linux (Unix)
+### 🐧 Linux (Unix)
 
-usage per 
 [source,bash]
 ----
-bash [filename]
+# bash [filename]
 ----
 
-usiage
-
 ## Requirements
-- Docker installed
-- Diploma project
+* [x] Docker installed
+* [x] Diploma project
 
 ## Tipps
-For perfect usage you will have to include a gitmodule / reference to your actual diploma project
+> For perfect usage you will have to include a gitmodule / reference to your actual diploma project
 
 *Recommended Dependencies :*
 - (asciidoctor-diagram)[https://docs.asciidoctor.org/diagram-extension/latest/]
