@@ -5,24 +5,41 @@ image::https://img.shields.io/badge/docs-passing-brightgreen[]
 
 > This project aims to provide a lightweight preconfiguration for the diplomathesis.
 
-Dockerization of asciidoctor
+Intentionally barebone structure and **docker/asciidoctor** setup.
+General structure for Austrian HTL students is provided, other than that you will have to configure all required dependencies, packages and themes yourself.
 
-### Exection
-Use the exec.bat or pro-exec.bat file 
+## Exection
 
-**exec.bat**
+**exec.{bat,bash}**
 
 > PDF - Quickstart :
 > generates the pdf file instantly and destroys the container afterwards
 
-**pro-exec.bat**
+**pro-exec.{bat,bash}**
 
 > Custom Usage : 
 > creates the docker container and connects you to the container internal prompt
 
-### Requirements
+### Windows
+
+usage per **DoubleClick** on the bat file
+
+### Linux (Unix)
+
+usage per 
+[source,bash]
+----
+bash [filename]
+----
+
+usiage
+
+## Requirements
 - Docker installed
 - Diploma project
 
-### Tipp
+## Tipps
 For perfect usage you will have to include a gitmodule / reference to your actual diploma project
+
+*Recommended Dependencies :*
+- (asciidoctor-diagram)[https://docs.asciidoctor.org/diagram-extension/latest/]

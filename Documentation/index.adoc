@@ -3,6 +3,10 @@
 //table of contents
 :toc:
 
+//Activating some features
+//  Mathematical Equasions
+:stem: 
+
 // including all member contents 
 include::ProjectLeader/intro.adoc[]
 include::ProjectMember1/intro.adoc[]
