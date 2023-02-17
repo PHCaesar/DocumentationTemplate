@@ -22,7 +22,7 @@ General structure for Austrian HTL students is provided, other than that you wil
 
 ### 🪟 Windows
 
-usage per **DoubleClick** on the bat file
+usage per 🖱️ **DoubleClick** on the bat file
 
 ### 🐧 Linux (Unix)
 
