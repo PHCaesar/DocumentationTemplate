@@ -1,14 +1,26 @@
-# Lithoz 3D printing Web interface
+include::General/cover.adoc[]
+:doctype: book 
+:preface-title: Preface 
+:toc: center
 
-//table of contents
-:toc:
 
 //Activating some features
 //  Mathematical Equasions
 :stem: 
 
+include::General/preface.adoc[]
+
 // including all member contents 
+<<<
 include::ProjectLeader/intro.adoc[]
+
 include::ProjectMember1/intro.adoc[]
+
 include::ProjectMember2/intro.adoc[]
+
 include::ProjectMember3/intro.adoc[]
+
+<<<
+include::General/abstract.adoc[]
+
+include::General/sources.adoc[]
