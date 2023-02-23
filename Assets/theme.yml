@@ -1,3 +1,22 @@
 extends: default
+
 base:
-  font-color: #FF0000
+  font-color: #000000
+
+footer:
+  recto:
+    right:
+      content: A recto page
+  verso:
+    left:
+      content: A verso page
+
+heading:
+  font-color: #000000
+  font-size: 17
+  font-style: bold
+  line-height: 1.2
+  margin-bottom: 10
+
+link:
+  font-color: #0000ff
