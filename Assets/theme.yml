@@ -6,10 +6,10 @@ base:
 footer:
   recto:
     right:
-      content: A recto page
+      content: Lithoz X HTL - Spengergasse
   verso:
     left:
-      content: A verso page
+      content: Lithoz X HTL - Spengergasse
 
 heading:
   font-color: #000000
