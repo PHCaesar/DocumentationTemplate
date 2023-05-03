@@ -1,9 +1,9 @@
-# 🕮 DiplomaThesis  
+# 🕮 DocumentationTemplate  
 By @PHCaesar
 
 image::https://img.shields.io/badge/docs-passing-brightgreen[]
 
-> This project aims to provide a lightweight preconfiguration for the diplomathesis.
+> This project aims to provide a lightweight preconfiguration for software documentation.
 
 Intentionally barebone structure and **docker/asciidoctor** setup.
 General structure for Austrian HTL students is provided, other than that you will have to configure all required dependencies, packages and themes yourself.
